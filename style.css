@@ -2,7 +2,9 @@
     text-align: center;
     background: #384D81;
     color: white;
-    padding: 50px;
+    padding: 110px;
+    
+    
 }
   
 body {
@@ -79,7 +81,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 300px;
+    height: 330px;
     margin-top: 50px;
 }
 
@@ -91,6 +93,7 @@ b {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 300px;
+    height: 400px;
+    width: 500px;
     margin-top: 75px;
 }
